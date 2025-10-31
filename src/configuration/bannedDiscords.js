@@ -9,6 +9,7 @@ const bannedDiscords = {
         // Add more banned user IDs here
         '612605661506830336', // MOULI FTW
         '1302595885271879701', // JUDY JR
+        '1302595885271879701', // LOKI FTW
         '1019546272853663755', // Foxxzyyy
         '770531323696906270', // IDIVETTU COOPER
         '756169633534574718', // KADAVUL IDIVETTU
@@ -26,12 +27,10 @@ const bannedDiscords = {
         '979748227064680478', // PyxelGeo
         '971402512034848848', // SCwarlordy
         '747794020058529862', // @tequilla404
-        '1302595885271879701', // LOKI FTW
         '948259081137848332', // sahal3820
         '757619468972196004', // LIL BENZ
         '612259902962008074', // SpideY
         '762531396077879326', // Milo Sike
-        '971402512034848848', // SCwarlordy
     ],
 
     // List of channel IDs to monitor (leave empty to monitor all channels)
